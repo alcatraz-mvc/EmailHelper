@@ -1,0 +1,19 @@
+{
+  "name": "alcatraz-mvc/EmailHelper",
+  "description": "EmailHelper from alcatraz-mvc",
+  "authors": [
+    {
+      "name": "Gabriel Malaquias",
+      "email": "g@gmalaquias.com"
+    }
+  ],
+  "keywords": ["EmailHelper", "alcatraz", "mvc", "alcatraz-mvc"],
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "phpmailer/phpmailer": "5.2.9"
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
